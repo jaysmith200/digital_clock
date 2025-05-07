@@ -9,7 +9,7 @@ body {
 
 #root {
   width: 90%; /* Default width for smaller screens */
-  max-width: 400px; /* Reduced fixed maximum width for larger screens */
+  max-width: 300px; /* Reduced fixed maximum width for larger screens */
   margin: 50px auto;
   padding: 1.5rem;
   text-align: center;
